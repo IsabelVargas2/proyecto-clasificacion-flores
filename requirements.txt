@@ -1,6 +1,6 @@
-tensorflow
+streamlit
 numpy
 matplotlib
 scikit-learn
-streamlit
 Pillow
+tensorflow-cpu==2.12.0
